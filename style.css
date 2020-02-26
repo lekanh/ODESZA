@@ -1,0 +1,33 @@
+body {
+  background: url('https://odesza.com/wp-content/themes/odesza/assets/images/bg-main-fade.png?1497023805') no-repeat center center fixed;
+
+}
+
+.ui.small.borderless.topmenu.menu {
+  background-color: transparent;
+  padding-top: 20px;
+  padding-right: 10px;
+  padding-bottom: 70px;
+  padding-left: 20px;
+  box-shadow: none;
+  border: none;
+}
+
+.ui.menu .item {
+  color: white;
+}
+
+.ui.borderless.middlemenu.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.footer-background {
+  background-color: black;
+  opacity: 0.75;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-right: 119px;
+  margin-left: 119px;
+  color: white;
+}
